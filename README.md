@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jayanth K</h1>
-<h3 align="center">A passionate computer science and engineering graduate from India</h3>
+<h3 align="center">A passionate computer science and engineering graduate from India looking for jobs in the field of Data and Analytics</h3>
 
 - 🌱 I’m currently learning **MS PowerBI, MS Excel**
 
